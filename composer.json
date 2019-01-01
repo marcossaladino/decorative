@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "require-dev": {
+        "pds/skeleton": "^1.0",
+        "phpunit/phpunit": "^7",
+        "psr/simple-cache": "^1.0",
+        "phploc/phploc": "^4.0"
+    }
+}
