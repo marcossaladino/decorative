@@ -6,6 +6,9 @@
  |____/   \___|  \___|  \___/  |_|     \__,_|  \__| |_|   \_/    \___|
 
 ```
+[![License](https://img.shields.io/github/license/marcossaladino/decorative.svg)](https://github.com/marcossaladino/decorative/blob/master/LICENSE.md)
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Decorative%20is%20a%20small%20PHP%20framework%20to%20create%20dynamic%20decorators.&url=https://github.com/marcossaladino/decorative&hashtags=PHP)
+
 # Decorative
 Decorative is a small PHP framework to create dynamic [decorators](https://en.wikipedia.org/wiki/Decorator_pattern).
 
