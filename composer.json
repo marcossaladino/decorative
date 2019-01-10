@@ -1,6 +1,8 @@
 {
   "name": "marcossaladino/decorative",
   "description": "Decorative is a small PHP framework to create dynamic decorators.",
+  "type": "library",
+  "license": "MIT",
   "require": {
     "php": "^7.2"
   },
