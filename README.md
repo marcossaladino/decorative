@@ -20,12 +20,17 @@ _To do_
 - PHP 7.2+
 
 ### Installing
-_To do_
+__Composer__
+```
+$ composer require marcossaladino/decorative
+```
 
 
 ## Running the tests
 ```
+$ git clone https://github.com/marcossaladino/decorative.git
 $ cd decorative
+$ composer install
 $ vendor/bin/phpunit tests/
 ```
 
